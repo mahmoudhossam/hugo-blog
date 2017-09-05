@@ -1,0 +1,5 @@
+baseURL = "http://blog.mahmoudhossam.com/"
+languageCode = "en-us"
+title = "Mahmoud Hossam's blog"
+theme = "minimo"
+publishDir = "docs"

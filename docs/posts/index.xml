@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mahmoud Hossam&#39;s blog</title>
+    <link>http://blog.mahmoudhossam.org/posts/</link>
+    <description>Recent content in Posts on Mahmoud Hossam&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2017 13:01:29 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.mahmoudhossam.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Arch?</title>
+      <link>http://blog.mahmoudhossam.org/posts/arch/</link>
+      <pubDate>Tue, 05 Sep 2017 13:01:29 +0200</pubDate>
+      
+      <guid>http://blog.mahmoudhossam.org/posts/arch/</guid>
+      <description>People have been having problems with Ubuntu recently so I proposed Arch as a replacement, but it&amp;rsquo;ll require some changes to your behavior to get a similar experience.
+Arch Linux is a rolling-release distro, that means you&amp;rsquo;ll only ever need to upgrade packages since there are no formal releases.
+That means you&amp;rsquo;ll always have the latest versions of the packages you have installed.
+Most people think this means Arch is less stable, but this isn&amp;rsquo;t true at all, Arch has always been more stable for me than Ubuntu, Fedora or even SuSE ever was.</description>
+    </item>
+    
+  </channel>
+</rss>
