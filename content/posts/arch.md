@@ -19,7 +19,7 @@ Pacman runs circles around apt, dnf, zypper or any package manager you've used s
 
 Someone might ask: "Okay, but what if the software I want isn't in the official repos?"
 
-Arch has the AUR (Arch User Repositories) to solve this problem, it's basically a community-maintained repo with recpies to build basically any software you can think of, they're even more comprehensive than Ubuntu's PPAs!
+Arch has the AUR (Arch User Repositories) to solve this problem, it's basically a community-maintained repo with recipes to build basically any software you can think of, they're even more comprehensive than Ubuntu's PPAs!
 
 All this comes at a price, though.
 
@@ -35,6 +35,6 @@ And in case you can't find a solution for your problem anywhere in the Wiki, you
 
 Most people usually stay away from learning stuff like system maintenance, but I think all Linux users should learn how their system works.
 
-This knowledge will come in handy when you come accross a problem with your system, I promise.
+This knowledge will come in handy when you come across a problem with your system, I promise.
 
 And in case you don't want to go through all this hassle to have a stable system, there are Arch-based distributions that give you basically the same experience but with a much lower learning curve, the most popular of those is Manjaro Linux.
