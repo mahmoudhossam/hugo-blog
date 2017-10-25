@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blog.mahmoudhossam.com/posts/orm/</loc>
+    <lastmod>2017-10-25T21:38:48+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.mahmoudhossam.com/posts/arch/</loc>
     <lastmod>2017-09-05T13:01:29+02:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>http://blog.mahmoudhossam.com/</loc>
-    <lastmod>2017-09-05T13:01:29+02:00</lastmod>
+    <lastmod>2017-10-25T21:38:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.mahmoudhossam.com/posts/</loc>
-    <lastmod>2017-09-05T13:01:29+02:00</lastmod>
+    <lastmod>2017-10-25T21:38:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   

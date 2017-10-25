@@ -3,3 +3,22 @@ languageCode = "en-us"
 title = "Mahmoud Hossam's blog"
 theme = "minimo"
 publishDir = "docs"
+enableRobotsTXT = true
+
+[params.settings]
+showReadingTime = true
+hideSocialMenu = false
+
+[params.social]
+email = "mahmoud.h.hanafy@gmail.com"
+github = "mahmoudhossam"
+linkedin = "mahmoudhhanafy"
+
+[[menu.main]]
+name = "Resume"
+weight = -10
+identifier = "Resume"
+url = "https://docs.google.com/document/d/1wghhisdmtSNj21IEbfo6R-rbtBZnawWD03Pxpw2Kdis/edit?usp=sharing"
+
+[params.social.config]
+platforms = ["email","github","linkedin"]

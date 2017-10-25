@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Mahmoud Hossam&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 13:01:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2017 21:38:48 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.mahmoudhossam.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Django ORM Problems</title>
+      <link>http://blog.mahmoudhossam.com/posts/orm/</link>
+      <pubDate>Wed, 25 Oct 2017 21:38:48 +0200</pubDate>
+      
+      <guid>http://blog.mahmoudhossam.com/posts/orm/</guid>
+      <description>I had a problem at work with a pattern that I think is common for database backend web applications.
+Let&amp;rsquo;s suppose we have a model Device that looks like the following:
+class Device(model.Model): DEVICE_TYPES = ( (&amp;#39;A&amp;#39;, &amp;#39;Android&amp;#39;), (&amp;#39;I&amp;#39;, &amp;#39;iOS&amp;#39;), (&amp;#39;W&amp;#39;, &amp;#39;Web&amp;#39;) ) device_type = models.CharField(max_length=1, choices=DEVICE_TYPES, default=&amp;#39;W&amp;#39;) ios_device = models.OneToOneField(AppleDevice, on_delete=models.CASCADE, null=True) android_device = models.OneToOneField(AndroidDevice, on_delete=models.CASCADE, null=True) web_device = models.OneToOneField(WebDevice, on_delete=models.CASCADE, null=True) Now let&amp;rsquo;s suppose that I want this device to be one of those three relationships, based on the device_type attribute.</description>
+    </item>
     
     <item>
       <title>Why Arch?</title>
